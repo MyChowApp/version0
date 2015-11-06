@@ -2,7 +2,7 @@
 version 0 of MyChow iOS app.
 
 ### Summary of the App:
-<br>MyChow is an iOS app created by Team 13 in Med AppJam 2015, which is a two-week competition hosted jointly by Donald Bren School of Information and Computer Science and School of Medicine in UC Irvine. </br>
+<br>MyChow is an iOS app created by Team 13 in Med AppJam 2015, which is a two-week-long competition hosted jointly by Donald Bren School of Information and Computer Science and School of Medicine in UC Irvine. </br>
 
 
 ### Summary of Information:
