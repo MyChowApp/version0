@@ -5,6 +5,7 @@
 <br>Description: TO BE UPDATED LATER</br>
 
 ### Summary of Information:
+<br>App GitHub page: https://github.com/MyChowApp/version0</br>
 <br>Team communication page: https://appjamteam13.slack.com</br>
 <br>Team Google Doc: https://docs.google.com/a/uci.edu/document/d/1X9cA1JRDXNbXJFsGsDE10xYC7aNSrda6frbQ5mCpruk/edit?usp=sharing<br>
 <br>Team Blog on MedAppJam: http://www.medappjam.com/category/medappjam2015/team13/</br>
